@@ -1,0 +1,59 @@
+/*Selectores*/
+#selectorId {
+    Color: rgb(0, 255, 106)
+}
+
+.selectorClase{
+    Color: rgb(98, 236, 229)
+}
+
+h4{
+    background-color: rgb(98, 236, 229) ;
+}
+
+.caja {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius:rem;
+    background-color: grey;
+}
+.caja-mediana {
+width: 200px;
+height: 200px;
+text-align: center ;
+background-color: rgb(106, 212, 19);
+font-size:10px;
+}
+
+.caja-grande {
+width:300px;
+height:300px;
+text-align:center;
+background-color: blueviolet;
+border-radius:rem;
+}
+
+.em {
+    font-size:2em;
+}
+
+.rem {
+    font-size:2rem;
+} 
+
+.porcentaje {
+    width: 50%;
+    height: 50%;
+    background-color: red;
+}
+
+.vh {
+    height:10vh;
+    background-color:blue;
+}
+
+.vw {
+    width:10vw;
+    background-color:red;
+}
